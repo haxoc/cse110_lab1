@@ -1,4 +1,8 @@
 # Guy's User Page
+
+Hanlon's razor:
+> Never attribute to malice that which is adequately explained by stupidity
+
 ## Contents
 1. [Computer](#Computer)
 2. [Real](#Real)
@@ -17,3 +21,6 @@ def hello():
 ```
 
 ## Real
+- [x] Say hello to more people 
+- [] Complete this lab
+- [x] Add pictures to this markdown page
