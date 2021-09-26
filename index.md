@@ -28,6 +28,7 @@ def hello():
 
 ## [Assignment screenshots](assignment-screenshots)
 
-Git: ![git commands](screenshots/git_commands.png)
+_Git:_
+![git commands](screenshots/git_commands.png)
 
 VSCode: [VS Code commit](screenshots/vscode.png)
