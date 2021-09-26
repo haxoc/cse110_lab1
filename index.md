@@ -1,3 +1,7 @@
+![tux the penguin](pics/tux.png)
+fair use.
+
+
 # Guy's User Page
 
 Hanlon's razor:
