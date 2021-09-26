@@ -26,9 +26,11 @@ def hello():
 - [ ] Complete this lab
 - [x] Add pictures to this markdown page
 
-## [Assignment screenshots](assignment-screenshots)
+## Assignment screenshots
 
 _Git:_
+
+
 ![git commands](screenshots/git_commands.png)
 
 VSCode: [VS Code commit](screenshots/vscode.png)
