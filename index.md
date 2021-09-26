@@ -6,6 +6,7 @@ Hanlon's razor:
 ## Contents
 1. [Computer](#Computer)
 2. [Real](#Real)
+3. [Assignment screenshots](#assignment-screenshots)
 
 
 ## Computer
@@ -22,5 +23,11 @@ def hello():
 
 ## Real
 - [x] Say hello to more people 
-- [] Complete this lab
+- [ ] Complete this lab
 - [x] Add pictures to this markdown page
+
+## [Assignment screenshots](assignment-screenshots)
+
+Git: ![git commands](screenshots/git_commands.png)
+
+VSCode: [VS Code commit](screenshots/vscode.png)
